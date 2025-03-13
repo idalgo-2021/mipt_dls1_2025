@@ -3,6 +3,9 @@
 
 [Materials of the first part of Deep Learning School course (ML + CV)](https://github.com/DeepLearningSchool/part_1_ml_cv)
 
+
+[Course page on stepic.org](https://stepik.org/course/230362/info)
+
 ---
 ## Homeworks
 
