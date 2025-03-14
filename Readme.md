@@ -9,6 +9,8 @@
 ---
 ## Homeworks
 
-1.
-2.
-3.
+1. [Homework-1 (Game of thrones)](Mikha_hw_1_game_of_thrones.ipynb)
+
+2. [Homework-2 (linear models)](Mikha_hw_2_linear_models.ipynb)
+
+3. [Homework-3 (kaggle)](Mikha_hw_3_kaggle.ipynb)
