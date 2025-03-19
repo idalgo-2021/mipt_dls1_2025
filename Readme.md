@@ -15,4 +15,4 @@
 
 3. [Homework-3 (kaggle) week-3](Mikha_hw_3_kaggle.ipynb)
 
-4. [Homework-4 (Полносвязные и свёрточные нейронные сети) week-5](Mikha_hw_4_conv_cnn.ipynb)
+4. [Homework-4 (Fully connected and convolutional neural networks) week-5](Mikha_hw_4_conv_cnn.ipynb)
