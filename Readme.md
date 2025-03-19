@@ -9,8 +9,10 @@
 ---
 ## Homeworks
 
-1. [Homework-1 (Game of thrones)](Mikha_hw_1_game_of_thrones.ipynb)
+1. [Homework-1 (Game of thrones) week-1](Mikha_hw_1_game_of_thrones.ipynb)
 
-2. [Homework-2 (linear models)](Mikha_hw_2_linear_models.ipynb)
+2. [Homework-2 (linear models) week-2](Mikha_hw_2_linear_models.ipynb)
 
-3. [Homework-3 (kaggle)](Mikha_hw_3_kaggle.ipynb)
+3. [Homework-3 (kaggle) week-3](Mikha_hw_3_kaggle.ipynb)
+
+4. [Homework-4 (Полносвязные и свёрточные нейронные сети) week-5](Mikha_hw_4_conv_cnn.ipynb)
