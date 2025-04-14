@@ -16,3 +16,5 @@
 3. [Homework-3 (kaggle) week-3](Mikha_hw_3_kaggle.ipynb)
 
 4. [Homework-4 (Fully connected and convolutional neural networks) week-5](Mikha_hw_4_conv_cnn.ipynb)
+
+5. [Homework-5 (Simpsons classification) week-6](Mikha_hw_5_simpsons_classification.ipynb)
