@@ -19,6 +19,6 @@
 
 6. [Homework-6 (Segmentation) week-8](Mikha_hw_6_segmentation.ipynb)
 
-7. [Homework-7 (Detection of Halo characters) week-9](Mikha_hw7_detectorHalo.ipynb) 
+7. [Homework-7 (Detection of Halo characters) week-9](Mikha_hw_7_detectorHalo.ipynb) 
 
-8. [Homework-8 (Autoencoders) week-10](Mikha_hw8_autoencoders.ipynb)
+8. [Homework-8 (Autoencoders) week-10](Mikha_hw_8_autoencoders.ipynb)
