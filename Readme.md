@@ -22,3 +22,6 @@
 7. [Homework-7 (Detection of Halo characters) week-9](Mikha_hw_7_detectorHalo.ipynb) 
 
 8. [Homework-8 (Autoencoders) week-10](Mikha_hw_8_autoencoders.ipynb)
+
+9.  * [Homework-9 (GANs part-1) week-11](Mikha_hw_9_gans_part_1.ipynb)
+    * [Homework-9 (GANs part-2) week-11](Mikha_hw_9_gans_part_2.ipynb)
