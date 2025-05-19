@@ -25,3 +25,7 @@
 
 9.  * [Homework-9 (GANs part-1) week-11](Mikha_hw_9_gans_part_1.ipynb)
     * [Homework-9 (GANs part-2) week-11](Mikha_hw_9_gans_part_2.ipynb)
+
+## Final project topics
+
+* see in folder `"Themes for the final project"` 
