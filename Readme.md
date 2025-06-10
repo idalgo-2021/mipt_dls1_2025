@@ -78,3 +78,8 @@
 
 * See topics in folder `"Themes for the final project"` 
 * My final project [Asynchronous Telegram-bot for transmitting style](https://github.com/idalgo-2021/dls_bot)
+    - Technologies:
+        - Aiogram (asynchronous Python framework)
+        - CycleGAN
+        - NST (Gatys' algorithm)
+        - Docker, CI/CD
