@@ -1,5 +1,6 @@
 # MIPT Deep Learning School — My Homework Solutions (Spring 2025, Semester 1)
 
+* [Deep Learning School](https://dls.samcs.ru)
 * [Materials of the first part (1st-semestr) of Deep Learning School course (ML + CV)](https://github.com/DeepLearningSchool/part_1_ml_cv)
 * [Course page on stepic.org](https://stepik.org/course/230362/info)
 
@@ -77,7 +78,7 @@
 ## Final project
 
 * See topics in folder `"Themes for the final project"` 
-* My final project [Asynchronous Telegram-bot for transmitting style](https://github.com/idalgo-2021/dls_bot)
+* My final project [Telegram Bot for Image Stylization](https://github.com/idalgo-2021/dls_bot)
     - Technologies:
         - Aiogram (asynchronous Python framework)
         - CycleGAN
